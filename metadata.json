@@ -1,0 +1,7 @@
+{
+  "name": "AI SPORTS ASSESSMENT APP",
+  "description": "A functional prototype for an AI-powered sports talent assessment mobile application, designed to democratize talent scouting in India by providing on-device analysis of athletic performance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
